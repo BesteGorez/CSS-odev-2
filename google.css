@@ -1,0 +1,151 @@
+.content {
+    width: 350px;
+margin-left: auto;
+margin-right: auto;
+}
+
+.grikutu, label {
+    height: 65px;
+    margin-left: 100px;
+    margin-right: 100px;
+    background-color: #eee;
+    font: 1rem 'Fira Sans', sans-serif;
+    
+}
+
+
+label {
+   
+    margin-left: 600px;
+    font-size: 89%;
+  
+}
+
+input {
+    margin: 0;
+    width: 24em;
+    margin-left: 40%;
+}
+
+#getgoogle input, 
+#getgoogle label 
+{
+    height: 15px;
+    width: 170px;
+    margin-left: 270px;
+    margin: auto;
+}
+
+.paylasbutonu {
+    margin-left: 300px;
+    margin: 0px;
+    
+ }
+ 
+
+.search {
+    
+    width: 110px;
+    padding-left: auto;
+    padding-right: auto;
+    float: left;
+  
+
+ 
+}
+.lucky {
+    width: 110px;
+    padding-left: auto;
+    padding-right: auto;
+    margin: 100px 20px 20px 555px;
+    float:left;
+    margin: 0;
+
+}
+
+.kutu1 {
+    width: 505px;
+    height: 75px;
+    background-color:#7EE5DA ;
+    float: left;
+    margin-top: 2px;
+    margin-right: 2px;
+    text-align: center;
+}
+
+.birincikutuyazi {
+    font-size: 13px;
+    table-layout: auto;
+    width: 100%;
+}
+
+.ikincikutuyazi {
+    text-decoration: underline;
+    table-layout: auto;
+    width: 100%;
+    text-align: center;
+    font-size: 13px;
+}
+
+.kutu2 {
+    width: 370px;
+    height: 75px;
+    background-color:#70CCC2 ;
+    float: left;
+    margin-top: 2px;
+    margin-right: 2px;
+    
+}
+
+.tiklamarengi:hover {
+    color:red;
+}
+
+
+.kutu3 {
+    width: 438px;
+    height: 75px;
+    background-color:#62B3AA;
+    margin-top: 2px;
+    margin-left: 2px;
+    float: left
+}
+
+.ucuncukutuyazi {
+    
+    table-layout: fixed;
+    width: 100%;
+    font-size: smaller;
+    margin-left: 200px;
+    margin-left: 5%;
+    margin-top: 0;
+
+}
+
+
+.uckututoplam {
+    height: 65px;
+    margin-left: 0px;
+    margin-right: 0px;
+    float: left;
+}
+
+.kutu1 { 
+    width: 505px;
+    height: 75px;
+    background-color:#7EE5DA ;
+    float: left;
+    margin-top: 2px;
+    margin-right: 2px;
+    text-align: center;
+
+}
+
+
+.footeryazisi {
+    font-size: 11px;
+  text-align: center;
+
+}
+
+
